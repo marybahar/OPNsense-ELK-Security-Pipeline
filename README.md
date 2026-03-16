@@ -1,4 +1,5 @@
 Multi-Source Security Monitoring Pipeline (SIEM Lab)
+
 📌 Project Overview
 This project demonstrates the architecture and deployment of a centralized security logging pipeline. I integrated network-level telemetry from an OPNsense Firewall and endpoint-level telemetry from Windows Sysmon/Audit Logs into a centralized ELK Stack (Elasticsearch, Logstash, Kibana).
 

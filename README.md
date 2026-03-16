@@ -55,4 +55,4 @@ This setup provides a unified "single pane of glass" for monitoring network traf
 ## 📂 Repository Structure
 * `/logstash-configs/`: Contains the `.conf` file for OPNsense ingestion.
 * `/winlogbeat-configs/`: Contains the `winlogbeat.yml` configuration for Windows telemetry.
-* `/screenshots/`: Contains
+* `/screenshots/`: Contains proof of logs

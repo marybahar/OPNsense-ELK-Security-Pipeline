@@ -1,5 +1,3 @@
-Here is the complete, "all-in-one" professional README.md file for your GitHub repository. This is designed to highlight your technical skills, your troubleshooting ability, and your understanding of the full security stack.
-
 Multi-Source Security Monitoring Pipeline (SIEM Lab)
 📌 Project Overview
 This project demonstrates the architecture and deployment of a centralized security logging pipeline. I integrated network-level telemetry from an OPNsense Firewall and endpoint-level telemetry from Windows Sysmon/Audit Logs into a centralized ELK Stack (Elasticsearch, Logstash, Kibana).
@@ -56,10 +54,3 @@ Endpoint Analysis: Filtered Sysmon logs to track process parent-child relationsh
 /winlogbeat-configs/: Contains the winlogbeat.yml configuration for Windows telemetry.
 
 /screenshots/: Contains proof of index creation and live log views in Kibana.
-
-Final Instructions for you:
-Go to GitHub: Open your README.md and click the Edit button.
-
-Paste everything above: Replace the current text with this new content.
-
-Check your images: Ensure the filenames in the [Image of...] or ![...] tags match the files you uploaded to your screenshots/ folder.

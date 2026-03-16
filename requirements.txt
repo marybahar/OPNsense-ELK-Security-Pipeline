@@ -1,0 +1,7 @@
+## Environment Versions
+* **OPNsense:** 24.1 (or your version)
+* **Elasticsearch:** 8.x
+* **Logstash:** 8.x
+* **Kibana:** 8.x
+* **Winlogbeat:** 8.x
+* **Sysmon:** v15.11 (SwiftOnSecurity Config)
